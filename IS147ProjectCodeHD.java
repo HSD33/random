@@ -1,10 +1,6 @@
-// Harveer Dhindsa
-// Course Project
-// IS147
-
 import java.util.Scanner;
 
-public class IS147ProjectCodeHD {
+public class IS147ProjectCode {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
  
